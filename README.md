@@ -10,8 +10,17 @@ A helpful assistant for nurse practitioners.
 
 ## Getting Started
 
-Clone the repo and open in your editor of choice.
+Clone the repo and open in your editor of choice:
+
+```bash
+git clone https://github.com/npcopilot/np-copilot.git
+cd np-copilot
+```
 
 ## Contributing
 
-Pull requests are welcome!
+Pull requests are welcome! Please open an issue first to discuss any major changes.
+
+## License
+
+MIT
